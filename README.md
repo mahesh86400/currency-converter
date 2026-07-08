@@ -1,2 +1,2 @@
 # currency-converter
-currency converter app 
+currency converter app.
