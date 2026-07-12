@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+}
+body{
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    font-size:large;
+}
+.box{
+    text-align: center;
+    border-radius: 4%;
+    height: 55vh;
+    width: 50vh;
+    background:#7adce9;
+    margin: auto;
+}
+.lineone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem;
+    height: auto;
+}
+input{
+    height: 2rem;
+    width: 30vh;
+    border-radius: 10px;
+}
+button{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    margin-left: 0.41rem;
+    cursor: pointer;
+}
+.linetwo{
+    margin-top: 6rem;
+}
+.city{
+    font-size: 25px;
+}
+.linethree{
+    margin: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
